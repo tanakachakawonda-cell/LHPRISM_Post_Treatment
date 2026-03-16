@@ -1,0 +1,42 @@
+---
+title: "Project Report Outline"
+format: docx
+editor: visual
+---
+
+## Executive summary
+
+Project overview. Written by all participants.
+
+## Introduction
+
+-   Background on invasive species
+-   Background on NYS DEC invasive species programs and the PRISM system
+-   Information and background on the NYS Invasive Species lists
+
+## Region of study
+
+-   Information about the Lower Hudson region (as defined by LHPRISM)
+-   Discussion of the climate and ecology of the region
+
+## Overview of the LHPRISM data set
+
+-   Description of the data set and its contents
+-   Description of data collection methods (will require communication with LHPRISM staff)
+-   Summary statistics and figures about major components of the data set (e.g., number of records, number of species, etc.)
+-   Should we put analyses of correlations and relationships among the variables in this section?
+
+## Spacial distribution of the data
+
+-   Maps of the various locations and some relevant summary information
+    -   Number of records per location
+    -   Number of species per location
+    -   Some summary of coverage percentages?
+
+## Analysis of time / treatment effort required to eradication
+
+-   This will be done on a subset of species
+    -   How did we choose these species?
+    -   Brief overview of ecology of these particular species
+-   Description of the methods used in this analysis
+-   Description of the results of this analysis
