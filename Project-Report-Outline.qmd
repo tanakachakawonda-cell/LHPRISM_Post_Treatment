@@ -41,8 +41,70 @@ Project overview. Written by all participants.
 
 -   This will be done on a subset of species
     -   How did we choose these species?
-    -   Brief overview of ecology of these particular species
+        -   accelerated growth, previous exploratory analysis file
+            -   HEMA17 - Giant Hogweed
+            -   PUMO - Kudzu
+            -   CYSC4 - Scotch Broom
+            -   SAGL12 - Sticky Sage
+                -   CYSC4, SAGL12, LECU, PLEIO, POPE10, RULA, AREL8, HEMA17, ACAR10, VISI, COIN21, PUMO, ARIT, ILCR2, PHVI81, SYPA12, VIDI80, COKO2, PHVI81, SYPA12, AKQU, AREL8, SPJA, WISI, PHVI81, BRPA4, MISI, RAFIB, BRSY, HUJA, HEHE, FRAL4, WISTE - ALL EXTERMINATED
+    -   Brief overview of ecology of these particular species (add known methods of treatment, previous recommendation)
+        -   HEMA17 - Giant Hogweed (Heracleum mantegazzianum)
+            -   native to Eastern Europe/Western Asia, highly invasive in NE USA
+            -   thrives in rich, moist soil, prefers sunlight and tolerant of partial shade
+            -   found in river banks, streams, floodplains, roadsides + trafficked areas
+            -   biennial lifecycle, plants 2+ yrs old 10-15ft tall
+            -   1 plant can produce 20,000-50,000 seeds, spreading by water/wind and human activity
+            -   forms dense monocultures, increases erosion risk due to dying back in winter, leaves soil exposed along riverbanks
+            -   phototoxic sap - sever skin burns with sun exposure
+            -   treatment recommendation: chemical treatment in early spring, mechanical removal for small infestations
+        -   PUMO - Kudzu
+            -   native to East Asia, widespread in SE USA and migrating N
+            -   thrives on roadside, forest edges, warm and humid climates, prefers full sun, climbs to canopy
+            -   perennial vine, grows up to 1ft/day in optimal conditions
+            -   spreads vegetatively, rooting at nodes
+            -   forms dense monocultures, causes tree death by shading and structural stress
+            -   alters nutrient cycle by nitrogen fixation
+            -   treatment complex, requires multi-modal approach over multiple years
+        -   CYSC4 - Scotch Broom
+            -   Native to Europe, widespread invasiveness in PNW, California, and East Coast USA
+            -   prefers sandy soil and full sun, found on roadsides, logged forests, grassland
+            -   perennial shrub, lives up to 10-15 yrs
+            -   1 plant produces 1,000s of seeds
+            -   dense thickets, reduces habitat quality for native species, alters nutrient cycle by nitrogen fixation
+            -   seeds viable for 30+ yrs in soil makes eradication difficult
+            -   hand pulling for small infestations, chemical spray (glyphosate, triclopyr, basal bark treatment, stem cutting, foliar spray
+        -   SAGL12 - Sticky Sage
+            -   native to Europe and West Asia
+            -   prefers moist, well-drained soil, found in woodlands, shaded slopes, forest edges
+            -   perennial herb, blooms late summer
+            -   low ecological impact, coexists with native species
+            -   known treatment: handpulling for young pop
 -   Description of the methods used in this analysis
+    -   change in total plant count over consecutive visits
+    -   visit_date \* visit_status_num
+    -   maybe see if there are any patterns when sorting by herbicide?
+    -   how many times did they need to visit a plot before eradication: look at total number of visits, and population numbers
 -   Description of the results of this analysis
+    -   HEMA17
+
+        ```{r}
+        ```
+
+    -   PUMO
+
+        ```{r}
+        ```
+
+    -   CYSC4
+
+        ```{r}
+        ```
+
+    -   SAGL12
+
+        ```{r}
+        ```
 
 ## Conclusions and recommendations
+
+Written by all participants.
